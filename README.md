@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Header / Banner -->
-  <a href="https://linkedin.com/in/rayanakarthikeyan">
+  <a href="https://rayanakarthikeyan.vercel.app/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Rayana+Karthikeyan;AI+Systems+%26+Full-Stack+Engineer;Building+Autonomous+Agents+%26+MCP+Systems;Architecting+Self-Healing+%26+Resilient+Software" alt="Typing SVG" />
   </a>
 
@@ -9,8 +9,11 @@
     <strong>Crafting autonomous agentic platforms, self-healing architectures, and high-impact distributed systems.</strong>
   </p>
 
-  <!-- Social Badges & Live Status Counters -->
+  <!-- Social Badges, Portfolio & Live Status Counters -->
   <p align="center">
+    <a href="https://rayanakarthikeyan.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-rayanakarthikeyan.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+    </a>
     <a href="https://www.linkedin.com/in/rayanakarthikeyan" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -29,10 +32,12 @@
 ```yaml
 name: Rayana Karthikeyan
 focus: Agentic AI Systems • Resilient Full-Stack Architecture • LLM Guardrails & RAG • Model Context Protocol (MCP)
+portfolio: https://rayanakarthikeyan.vercel.app/
 current_obsession: Building fault-tolerant, self-healing agent workflows & distributed AI concierges
 core_philosophy: "Deterministic reliability wrapped around stochastic intelligence."
 ```
 
+- 🌐 **Interactive Portfolio**: Discover my live apps, case studies, and engineering writeups at [rayanakarthikeyan.vercel.app](https://rayanakarthikeyan.vercel.app/).
 - 🤖 **Agentic & AI Engineering**: Specializing in multi-agent orchestration, contextual RAG, Model Context Protocol (MCP) tools, and deterministic safety guardrails.
 - 🛠️ **Full-Stack Craftsmanship**: Building production-grade, highly responsive web platforms with TypeScript, Next.js/React, Python, and modern cloud primitives.
 - 🎯 **Reliability First**: Designing systems with self-healing capabilities, automated evaluation harnesses, and chaos testing in mind.
@@ -128,20 +133,19 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
+  <p align="center">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayanakarthikeyan&theme=tokyonight" alt="GitHub Profile Details" />
+  </p>
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayanakarthikeyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=a855f7" alt="Karthikeyan's GitHub Stats" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayanakarthikeyan&theme=tokyonight" alt="Stats Card" />
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanakarthikeyan&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" alt="Top Languages" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayanakarthikeyan&theme=tokyonight" alt="Language Distribution" />
       </td>
     </tr>
   </table>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayanakarthikeyan&theme=tokyonight&hide_border=true&stroke=6366f1&ring=6366f1&fire=f59e0b" alt="GitHub Streak" />
-  </p>
 </div>
 
 ---
@@ -153,6 +157,7 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
   **Looking to collaborate on groundbreaking Agentic AI systems, MCP tooling, or full-stack platforms?**  
   Feel free to reach out via:
 
+  [![Portfolio](https://img.shields.io/badge/Explore%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://rayanakarthikeyan.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayanakarthikeyan)
   [![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayanakarthikeyan)
 
