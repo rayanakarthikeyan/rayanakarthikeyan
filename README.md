@@ -49,6 +49,19 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="left">🛡️ <a href="https://github.com/rayanakarthikeyan/Sentinel-Kernel">Sentinel-Kernel</a></h3>
+      <p>Autonomous <b>SRE & Self-Healing Incident Agent</b> with isolated ephemeral sandbox execution and deterministic regression gating.</p>
+      <ul>
+        <li>Triage, telemetry analysis, and reproduction test generation</li>
+        <li>Deterministic zero-hallucination test suite verification</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Autonomous_SRE-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sandbox_Isolation-10B981?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="left">⚡ <a href="https://github.com/rayanakarthikeyan/Zero-Docs-Copilot">Zero-Docs Chaos Copilot</a></h3>
       <p>An <b>Agentic AI developer platform</b> that generates resilient, self-healing payment integrations under active chaos conditions.</p>
       <ul>
@@ -61,6 +74,8 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
         <img src="https://img.shields.io/badge/Chaos_Eng-E11D48?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🍕 <a href="https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP">Swiggy-Syndicate-MCP</a></h3>
       <p>An autonomous <b>multi-person group ordering concierge</b> and constraint-solving MCP server built on top of the Swiggy Food API.</p>
@@ -74,10 +89,8 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
         <img src="https://img.shields.io/badge/Constraint_Solving-10B981?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/rayanakarthikeyan/Apple-Support-AI-Agent">Apple-Support-AI-Agent</a></h3>
+      <h3 align="left">🤖 <a href="https://github.com/rayanakarthikeyan/Apple-Support-AI-Agent">Apple-Support-AI-Agent</a></h3>
       <p>Grounded AI Customer Support Agent with <b>historical resolution RAG</b>, intent classification, safety escalation guardrails, and empirical eval harness.</p>
       <ul>
         <li>Vector-grounded retrieval against real diagnostic workflows</li>
@@ -87,19 +100,6 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/RAG-F59E0B?style=flat-square" />
         <img src="https://img.shields.io/badge/Eval_Harness-6366F1?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🎓 <a href="https://github.com/rayanakarthikeyan/Academia-Lab">Academia-Lab</a></h3>
-      <p>Full-stack academic learning and lab assessment platform for <b>Java & DBMS tracks</b> featuring proctored lab assessments and live telemetry.</p>
-      <ul>
-        <li>Automated grading engine & code telemetry capture</li>
-        <li>Multi-track curriculum with integrated proctoring</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
