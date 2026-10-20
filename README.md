@@ -8,11 +8,17 @@ source evidence, explicit review, recoverable processing and measured results.
 
 ## Selected work
 
+### [Support Evidence API](https://github.com/rayanakarthikeyan/Apple-Support-AI-Agent)
+Python/FastAPI evidence service with local pretrained dense embeddings, a
+persistent SQLite vector index, page citations and snapshot-bound review before
+export. Optional Gemini drafting is implemented separately from the legacy
+BM25/rule-based demo. Authored development results disclose missing-evidence
+failures; a cited quote does not by itself establish relevance or truth.
+
 ### [DamnLens](https://github.com/rayanakarthikeyan/damnlens-ai-agent)
 Document-to-Excel application with OCR, optional Gemini table transcription,
 source-linked review and resumable page checkpoints. Includes automated tests,
 CI and evaluation reports that disclose fixture scope and residual failures.
-See the repository for the research API extension and its verification status.
 
 ### [Zero-Docs Copilot](https://github.com/rayanakarthikeyan/Zero-Docs-Copilot)
 Gemini-assisted payment integration generation and revision. Its generated-code
