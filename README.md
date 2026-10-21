@@ -18,7 +18,7 @@
 
 ---
 
-I build across the application stack, from retrieval and evaluation to APIs, interfaces, and persistent data flows. My projects explore a recurring question: **how can a system make its outputs easier to inspect, its failures easier to recover from, and its behavior easier to verify?**
+I develop AI tools and full-stack applications for document processing, learning, and developer workflows. My focus is on **source traceability, recoverable data flows, and repeatable verification**, from the backend to the interface.
 
 ## Selected work
 
