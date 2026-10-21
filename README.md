@@ -128,7 +128,6 @@ portfolio: https://rayanakarthikeyan.vercel.app/
 ### GitHub activity
 
 <div align="center">
-  <p><img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayanakarthikeyan&amp;theme=tokyonight" alt="GitHub contribution activity" /></p>
   <table>
     <tr>
       <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayanakarthikeyan&amp;theme=tokyonight" alt="Public GitHub activity statistics" /></td>
