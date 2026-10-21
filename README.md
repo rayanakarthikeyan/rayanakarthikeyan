@@ -44,6 +44,15 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
 
 ---
 
+### 🆕 Recent Projects
+
+- [DamnLens AI Agent](https://github.com/rayanakarthikeyan/damnlens-ai-agent): Local PDF and scan to Excel workflows with OCR, multi-page tables, validation, and source-evidence review.
+- [LearnProof AI](https://github.com/rayanakarthikeyan/LearnProof-AI): Evidence-first multimodal learning with cited tutoring, persistent misconception repair, adaptive practice, and scoped mock exams.
+- [NexusFleet](https://github.com/rayanakarthikeyan/NexusFleet): Offline-first Android fleet telemetry with durable SQLite capture, idempotent NestJS ingestion, and animated route playback.
+- [LectureLens](https://github.com/rayanakarthikeyan/LectureLens): Offline lecture search for Snapdragon PCs with source-linked transcripts, slides, and local speech recognition.
+
+---
+
 ### 🚀 Highlighted Flagship Projects
 
 <table>
