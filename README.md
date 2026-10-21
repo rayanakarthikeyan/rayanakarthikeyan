@@ -65,9 +65,9 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
         <li>Deterministic zero-hallucination test suite verification</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Autonomous_SRE-6366F1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sandbox_Isolation-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Autonomous_SRE-6366F1?style=flat-square" alt="Autonomous SRE" />
+        <img src="https://img.shields.io/badge/Sandbox_Isolation-10B981?style=flat-square" alt="Sandbox isolation" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -78,9 +78,9 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
         <li>Automated chaos simulation & integration self-repair</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Chaos_Eng-E11D48?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square" alt="Agentic AI" />
+        <img src="https://img.shields.io/badge/Chaos_Eng-E11D48?style=flat-square" alt="Chaos engineering" />
       </p>
     </td>
   </tr>
@@ -93,9 +93,9 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
         <li>Algorithmic group preference & multi-constraint solver</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-0052CC?style=flat-square" />
-        <img src="https://img.shields.io/badge/Constraint_Solving-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MCP-0052CC?style=flat-square" alt="Model Context Protocol" />
+        <img src="https://img.shields.io/badge/Constraint_Solving-10B981?style=flat-square" alt="Constraint solving" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -106,9 +106,9 @@ core_philosophy: "Deterministic reliability wrapped around stochastic intelligen
         <li>Strict escalation safety pipelines & systematic evaluation</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-F59E0B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Eval_Harness-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/RAG-F59E0B?style=flat-square" alt="Retrieval-augmented generation" />
+        <img src="https://img.shields.io/badge/Eval_Harness-6366F1?style=flat-square" alt="Evaluation harness" />
       </p>
     </td>
   </tr>
