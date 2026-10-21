@@ -3,10 +3,10 @@
 <h1>Rayana Karthikeyan</h1>
 
 <a href="https://rayanakarthikeyan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=1200&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=AI+Systems+%26+Full-Stack+Engineer;Retrieval%2C+Evaluation+%26+MCP;Reliable+Data+Flows+%26+Developer+Tools" alt="AI systems, full-stack engineering, retrieval, evaluation, and MCP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=1200&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Applied+AI+%7C+Backend+%7C+Full+Stack;Python+%26+FastAPI+Applications;React+%26+TypeScript+Interfaces" alt="Applied AI, backend services, and full-stack interfaces" />
 </a>
 
-<p><strong>Building useful AI applications with inspectable evidence and verifiable behavior.</strong></p>
+<p><strong>Computer Science undergraduate building AI applications, Python APIs, and full-stack interfaces.</strong></p>
 
 <p>
   <a href="https://rayanakarthikeyan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" /></a>
@@ -16,96 +16,82 @@
 
 </div>
 
+**Seeking:** Applied AI Intern, AI Software Engineer Intern, Backend AI Intern, and Full Stack AI Intern roles.
+
+I am based in Hyderabad and study Computer Science at IIT Patna and KGRCET. My current internship includes NestJS/PostgreSQL services, Next.js interfaces, and role-based workflows. My projects connect model integration with backend reliability and interfaces people can use to review results.
+
 ---
 
 ### Engineering focus
 
-I develop AI tools and full-stack applications for document processing, learning, and developer workflows. My work connects model outputs to source evidence, gives interrupted workflows a path to recovery, and makes verification repeatable.
+- **Applied AI:** integrate OCR, retrieval, model APIs, and structured workflows while retaining evidence for review.
+- **Backend:** build Python/FastAPI and Node.js/NestJS services with validation, durable state, and explicit access rules.
+- **Full stack:** connect React/TypeScript interfaces to APIs and databases, then verify the workflow across those boundaries.
 
-```yaml
-focus: AI applications, retrieval, evaluation, and MCP tools
-languages: Python, TypeScript, JavaScript, SQL
-approach: Source traceability, durable state, and executable checks
-portfolio: https://rayanakarthikeyan.vercel.app/
-```
-
-- **Evidence close to the output.** Make extracted data, retrieved passages, and explanations easy to inspect against their sources.
-- **Recovery built into the workflow.** Use durable queues, stable identifiers, and explicit acknowledgements.
-- **Verification alongside implementation.** Build reproductions, evaluation fixtures, and automated checks with the application.
-
----
-
-### Recent projects
-
-- **[DamnLens AI Agent](https://github.com/rayanakarthikeyan/damnlens-ai-agent)** - Local PDF and scan to Excel workflows with OCR, multi-page table reconstruction, validation, and source-evidence review.
-- **[LearnProof AI](https://github.com/rayanakarthikeyan/LearnProof-AI)** - A tutoring prototype with cited explanations, misconception repair, adaptive practice, and transfer questions to check understanding.
-- **[NexusFleet](https://github.com/rayanakarthikeyan/NexusFleet)** - An offline fleet telemetry demo with SQLite capture, stable retry identifiers, server acknowledgement, and route playback.
-- **[LectureLens](https://github.com/rayanakarthikeyan/LectureLens)** - A local lecture explorer with speech transcription and source-linked search across transcripts and slides.
-
----
-
-### Selected projects
+### Selected project evidence
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rayanakarthikeyan/Sentinel-Kernel">Sentinel-Kernel</a></h3>
-      <p>An incident-response prototype built around a <b>reproduce, patch, and verify</b> workflow.</p>
-      <ul>
-        <li>Failure reproduction before candidate patch generation</li>
-        <li>Temporary sandbox execution and regression checks</li>
-      </ul>
+      <h3><a href="https://github.com/rayanakarthikeyan/damnlens-ai-agent">DamnLens AI Agent</a></h3>
+      <p><b>Applied AI and Python APIs</b></p>
+      <p>Document-to-Excel processing with local OCR, validation, source-linked corrections, and recoverable page checkpoints.</p>
+      <p>Exact-fixture benchmark with a failing exit code on regressions; tests for checkpoint recovery and review invalidation.</p>
+      <p><a href="https://github.com/rayanakarthikeyan/damnlens-ai-agent/blob/main/docs/ENGINEERING_CASE_STUDY.md">Read implementation and verification notes</a></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Verification-6366F1?style=flat-square" alt="Verification workflows" />
+        <img src="https://img.shields.io/badge/Python-6366F1?style=flat-square" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-6366F1?style=flat-square" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/OCR-6366F1?style=flat-square" alt="OCR" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rayanakarthikeyan/Zero-Docs-Copilot">Zero-Docs Copilot</a></h3>
-      <p>A payment-integration generation prototype with <b>static signature checks</b> and reviewable scaffolding.</p>
-      <ul>
-        <li>Integration code generation and AST-based auditing</li>
-        <li>Webhook reference examples and simulated schema workflows</li>
-      </ul>
+      <h3><a href="https://github.com/rayanakarthikeyan/NexusFleet">NexusFleet</a></h3>
+      <p><b>Backend reliability</b></p>
+      <p>Offline telemetry with durable SQLite capture, stable retry IDs, PostgreSQL ingestion, and acknowledgement-based deletion.</p>
+      <p>Two-trip overlapping-batch regression checks, transaction rollback, access control, and ordered history.</p>
+      <p><a href="https://github.com/rayanakarthikeyan/NexusFleet/blob/main/docs/ENGINEERING_CASE_STUDY.md">Read implementation and verification notes</a></p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Static_Audit-6366F1?style=flat-square" alt="Static auditing" />
+        <img src="https://img.shields.io/badge/NestJS-6366F1?style=flat-square" alt="NestJS" />
+        <img src="https://img.shields.io/badge/PostgreSQL-6366F1?style=flat-square" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/SQLite-6366F1?style=flat-square" alt="SQLite" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP">Swiggy Syndicate MCP</a></h3>
-      <p>A group-ordering concierge that translates shared preferences into <b>explicit ordering constraints</b>.</p>
-      <ul>
-        <li>Dietary, budget, and delivery constraint handling</li>
-        <li>Cart consolidation, bill splitting, and a local test sandbox</li>
-      </ul>
+      <h3><a href="https://github.com/rayanakarthikeyan/Academia-Lab">CogniXplore</a></h3>
+      <p><b>Full-stack AI applications</b></p>
+      <p>Student/faculty workflows, coding workspaces, contextual tutoring, and durable browser activity delivery in a supervised teaching beta.</p>
+      <p>CI build and API workflow checks for publication, role access, tutor context, and provider failures.</p>
+      <p><a href="https://github.com/rayanakarthikeyan/Academia-Lab/blob/main/docs/ENGINEERING_CASE_STUDY.md">Read implementation and verification notes</a></p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/MCP-0052CC?style=flat-square" alt="Model Context Protocol" />
-        <img src="https://img.shields.io/badge/Constraint_Solving-10B981?style=flat-square" alt="Constraint solving" />
+        <img src="https://img.shields.io/badge/React-6366F1?style=flat-square" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-6366F1?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-6366F1?style=flat-square" alt="PostgreSQL" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rayanakarthikeyan/Apple-Support-AI-Agent">Apple Support AI Agent</a></h3>
-      <p>A personal customer-support project combining <b>retrieval, escalation rules, and evaluation</b>.</p>
-      <ul>
-        <li>Context retrieval and intent classification</li>
-        <li>Escalation guardrails and repeatable evaluation fixtures</li>
-      </ul>
+      <h3><a href="https://github.com/rayanakarthikeyan/LearnProof-AI">LearnProof AI</a></h3>
+      <p><b>Retrieval and learning workflows</b></p>
+      <p>A learning prototype with source-cited explanations, persistent misconception tracking, and adaptive practice.</p>
+      <p>Documented evaluation scope; programmatic checks are separate from pending live model validation.</p>
+      <p><a href="https://github.com/rayanakarthikeyan/LearnProof-AI#evaluation">Read implementation and verification notes</a></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/RAG-F59E0B?style=flat-square" alt="Retrieval-augmented generation" />
-        <img src="https://img.shields.io/badge/Evaluation-6366F1?style=flat-square" alt="Model evaluation" />
+        <img src="https://img.shields.io/badge/Python-6366F1?style=flat-square" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-6366F1?style=flat-square" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-6366F1?style=flat-square" alt="React" />
       </p>
     </td>
   </tr>
 </table>
 
-**Also building:** [CogniXplore](https://github.com/rayanakarthikeyan/Academia-Lab), a teaching beta with coding workspaces, contextual tutoring, and durable browser telemetry.
+### More work
+
+- [Swiggy Syndicate MCP](https://github.com/rayanakarthikeyan/Swiggy-Syndicate-MCP): API tools for group ordering, constraint handling, and a repeatable local sandbox.
+- [LectureLens](https://github.com/rayanakarthikeyan/LectureLens): local transcript search and Whisper adapters; optional device execution remains to be validated.
+- [Sentinel-Kernel](https://github.com/rayanakarthikeyan/Sentinel-Kernel): incident reproduction, candidate patch execution, and regression checks in a bounded prototype.
+- [Apple Support AI Agent](https://github.com/rayanakarthikeyan/Apple-Support-AI-Agent): a personal customer-support retrieval and evaluation project.
+- [Zero-Docs Copilot](https://github.com/rayanakarthikeyan/Zero-Docs-Copilot): integration generation with static auditing and separate webhook reference checks.
 
 ---
 
@@ -142,7 +128,7 @@ portfolio: https://rayanakarthikeyan.vercel.app/
 
 <div align="center">
 
-For engineering opportunities, technical discussions, or collaboration on AI applications and developer tools.
+For applied AI, AI software engineering, backend AI, and full-stack AI internships. I would be glad to walk through the implementation and verification behind these projects.
 
 [![Explore my portfolio](https://img.shields.io/badge/Explore_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://rayanakarthikeyan.vercel.app/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayanakarthikeyan)
